@@ -1,5 +1,5 @@
 h1{
-    font-size: 50px;
+    font-size: 48px;
 }
 
 h3{
@@ -11,11 +11,15 @@ p{
 }
 
 #span1{
-    color: darkblue;
+    color: orange;
+}
+
+section{
+    display: flex;
+
 }
 
 img{
-    display: flex;
-    height: 750px;
+    height: 550px;
+    width: auto;
 }
-
