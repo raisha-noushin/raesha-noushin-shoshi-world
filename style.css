@@ -1,0 +1,21 @@
+h1{
+    font-size: 50px;
+}
+
+h3{
+    font-size: 20px;
+}
+
+p{
+    font-size: 17px;
+}
+
+#span1{
+    color: darkblue;
+}
+
+img{
+    height: 750px;
+    display: flex;
+}
+
