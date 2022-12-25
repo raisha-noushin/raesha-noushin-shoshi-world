@@ -25,9 +25,33 @@ img{
 }
 
 .half-width{
-
+    padding-left: 5px;
+    padding-top: 10px;
+     
 };
 
 .half-width img{
 
+}
+
+a{
+    text-decoration: none;
+}
+
+#hire{
+    background-color: orange;
+    padding: 10px 40px;
+    border-style: solid;
+    border-color: orange;
+    border-radius: 5px;
+    font-size: large;
+}
+
+#resume{
+    background-color: orange;
+    padding: 10px 40px;
+    border-style: solid;
+    border-color: orange;
+    border-radius: 5px; 
+    font-size: large;
 }
