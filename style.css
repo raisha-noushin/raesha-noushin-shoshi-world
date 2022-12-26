@@ -20,14 +20,16 @@ section{
 }
 
 img{
-    height: 550px;
+    height: 500px;
     width: auto;
+    padding-right: 20px;
 }
 
 .half-width{
     padding-left: 20px;
-    padding-top: 10px;
+    padding-top: 20px;
     padding-bottom: 70px;
+    padding-right: auto
     
 };
 
@@ -40,19 +42,19 @@ a{
 }
 
 #hire{
-    background-color: orange;
+    background: linear-gradient(orange, rgb(252, 95, 38));
     padding: 10px 40px;
-    border-style: solid;
-    border-color: orange;
     border-radius: 5px;
     font-size: large;
 }
 
 #resume{
-    background-color: orange;
+    background: linear-gradient(orange, rgb(252, 95, 38));
     padding: 10px 40px;
-    border-style: solid;
-    border-color: orange;
     border-radius: 5px; 
     font-size: large;
+}
+
+.text{
+    font-size: 20px;
 }
